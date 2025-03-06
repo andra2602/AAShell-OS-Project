@@ -135,6 +135,8 @@ exit
    $ fg
    ```
 
+___
+
 # AAShell-OS-Project
 
 AAShell este un mini-shell interactiv dezvoltat în C, realizat în cadrul unui proiect de echipă pentru cursul de Sisteme de Operare. Acesta a fost lucrat împreună cu colega mea, Alexandra Tunaru, așa cum se specifică în mesajul de bun venit:
