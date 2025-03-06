@@ -1,4 +1,4 @@
-## AAShell-OS-Project
+# AAShell-OS-Project
 
 AAShell is an interactive mini-shell developed in C as part of a team project for the Operating Systems course. It was created together with my colleague, Alexandra Tunaru, as mentioned in the welcome message:
 
